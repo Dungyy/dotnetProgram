@@ -1,0 +1,14 @@
+C:\Users\erick\projects\c#\dotnetProgram\bin\Debug\net7.0\dotnetProgram.exe
+C:\Users\erick\projects\c#\dotnetProgram\bin\Debug\net7.0\dotnetProgram.deps.json
+C:\Users\erick\projects\c#\dotnetProgram\bin\Debug\net7.0\dotnetProgram.runtimeconfig.json
+C:\Users\erick\projects\c#\dotnetProgram\bin\Debug\net7.0\dotnetProgram.dll
+C:\Users\erick\projects\c#\dotnetProgram\bin\Debug\net7.0\dotnetProgram.pdb
+C:\Users\erick\projects\c#\dotnetProgram\obj\Debug\net7.0\dotnetProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\projects\c#\dotnetProgram\obj\Debug\net7.0\dotnetProgram.AssemblyInfoInputs.cache
+C:\Users\erick\projects\c#\dotnetProgram\obj\Debug\net7.0\dotnetProgram.AssemblyInfo.cs
+C:\Users\erick\projects\c#\dotnetProgram\obj\Debug\net7.0\dotnetProgram.csproj.CoreCompileInputs.cache
+C:\Users\erick\projects\c#\dotnetProgram\obj\Debug\net7.0\dotnetProgram.dll
+C:\Users\erick\projects\c#\dotnetProgram\obj\Debug\net7.0\refint\dotnetProgram.dll
+C:\Users\erick\projects\c#\dotnetProgram\obj\Debug\net7.0\dotnetProgram.pdb
+C:\Users\erick\projects\c#\dotnetProgram\obj\Debug\net7.0\dotnetProgram.genruntimeconfig.cache
+C:\Users\erick\projects\c#\dotnetProgram\obj\Debug\net7.0\ref\dotnetProgram.dll
