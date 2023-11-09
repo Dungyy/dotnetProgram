@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = dotnetProgram
-build_property.ProjectDir = C:\Users\erick\projects\c#\dotnetProgram\
+build_property.ProjectDir = c:\Users\erick\projects\c#\dotnetProgram\
